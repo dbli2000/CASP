@@ -1,0 +1,8 @@
+motif_id	motif_alt_id	sequence_name	start	stop	strand	score	p-value	q-value	matched_sequence
+Up3	Up3Manual	Desulfonema_ishimotonii_strain_Tokyo_01_NODE_1_-_NZ_BEXT01000001_DiCas7-11_Loci	6650	6673	+	19.3776	6.83e-08	0.00278	TCACATTTCCGAAAAAAGCGCGAC
+Up3	Up3Manual	Desulfonema_ishimotonii_strain_Tokyo_01_NODE_1_-_NZ_BEXT01000001_DiCas7-11_Loci	1377	1400	+	19.0714	1.37e-07	0.00279	TCACATTTTCCGAAAACGTGCGAC
+Up3	Up3Manual	Desulfonema_ishimotonii_strain_Tokyo_01_NODE_1_-_NZ_BEXT01000001_DiCas7-11_Loci	7683	7706	+	17.5306	8.15e-07	0.011	TCACATTCTGATTTTTATTACGAC
+
+# FIMO (Find Individual Motif Occurrences): Version 5.4.1 compiled on Aug 25 2021 at 17:37:39
+# The format of this file is described at https://meme-suite.org/meme/doc/fimo-output-format.html.
+# fimo --oc . --verbosity 1 --thresh 1.0E-4 Di711LociMotif.meme Di711Loci.fasta
